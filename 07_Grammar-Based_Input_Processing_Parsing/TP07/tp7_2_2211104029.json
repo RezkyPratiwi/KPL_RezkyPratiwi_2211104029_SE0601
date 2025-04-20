@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRI2C5",
+			"name": "Proyek Tingkat 2"
+		},
+		{
+			"code": "CRI2C6",
+			"name": "Design Thinking"
+		},
+		{
+			"code": "CRI2C7",
+			"name": "Kecerdasan Buatan"
+		},
+		{
+			"code": "CRI2C8",
+			"name": "Praktikum Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRI2C9",
+			"name": "Tata Tulis Ilmiah"
+		},
+		{
+			"code": "CRI2C10",
+			"name": "Manajemen Evolusi dan Konfigurasi Perangkat Lunak"
+		}
+	]
+}

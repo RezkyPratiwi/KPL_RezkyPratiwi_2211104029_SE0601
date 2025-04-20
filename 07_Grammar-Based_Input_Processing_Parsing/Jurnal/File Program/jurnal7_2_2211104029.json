@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Aufa",
+      "lastName": "Muhammad",
+      "gender": "Male",
+      "age": 21,
+      "nim": "2211104020"
+    },
+    {
+      "firstName": "Doanta",
+      "lastName": "Aloycius",
+      "gender": "Male",
+      "age": 22,
+      "nim": "2111104029"
+    },
+    {
+      "firstName": "Lintang",
+      "lastName": "Suminar",
+      "gender": "Female",
+      "age": 21,
+      "nim": "2211104009"
+    },
+    {
+      "firstName": "Rezky",
+      "lastName": "Pratiwi",
+      "gender": "Female",
+      "age": 21,
+      "nim": "2211104029"
+    }
+  ]
+}
