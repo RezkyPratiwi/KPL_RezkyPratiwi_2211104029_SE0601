@@ -1,8 +1,7 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-namespace tpmodul9_2211104005.Controllers
+namespace tpmodul9_2211104029.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -16,12 +15,10 @@ namespace tpmodul9_2211104005.Controllers
 
         private static List<Mahasiswa> listMahasiswa = new List<Mahasiswa>
         {
-            new Mahasiswa { Nama = "Nita Fitrotul Mar'ah", Nim = "221110405" },
-            new Mahasiswa { Nama = "Alfian Mutakim", Nim = "2211104017" },
-            new Mahasiswa { Nama = "Nadia Putri Rahmaniar", Nim = "2211104012" },
-            new Mahasiswa { Nama = "Rafli Dhafin Kamil", Nim = "2211104023" },
-            new Mahasiswa { Nama = "Muhammad Edgar Nadhif", Nim = "2211104020" },
-            new Mahasiswa { Nama = "Muhammad Dhimas Afrizal", Nim = "2211104025" },
+            new Mahasiswa { Nama = "Aufa Muhammad", Nim = "2211104020" },
+            new Mahasiswa { Nama = "Doanta Aloycius", Nim = "2111104029" },
+            new Mahasiswa { Nama = "Lintang Suminar", Nim = "2211104009" },
+            new Mahasiswa { Nama = "Rezky Pratiwi", Nim = "2211104029" },
         };
 
         // GET /api/mahasiswa
